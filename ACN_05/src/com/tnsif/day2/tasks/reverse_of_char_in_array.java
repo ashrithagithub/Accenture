@@ -8,8 +8,9 @@ public class reverse_of_char_in_array {
 		// 2st swap:   u s h a --> u h s a 
 		// for(char c : arr)  --> Takes each character from the array and prints it
 
+
 		char[] arr = {'a','s','h','u'}; 
-		
+
 		int start = 0;                  //a
 		int end = arr.length - 1;		//u
 		
