@@ -25,6 +25,7 @@ public class LibraryManage {
 		Book b1 = new Book(2, "Java");
 		Book b2 = new Book(3, "HTML");
 		Book b3 = new Book(4, "CSS");
+	
 		
 		b.display();
 		b1.display();
